@@ -1,0 +1,135 @@
+run_name: full_study
+seed: 13
+output_root: /Users/leobix/ai4crisis/outputs/triage_outputs
+
+data:
+  urgency_xlsx: /Users/leobix/ai4crisis/Final_Merged_All_Columns.xlsx
+  category_xlsx: /Users/leobix/ai4crisis/Final_Merged_All_Columns.xlsx
+  urgency_sheet: Sheet1
+  category_sheet: Sheet1
+  text_column: Post description
+  urgency_columns:
+    - Urg 1
+    - Urg 2
+    - Urg 3
+    - Urg 4
+    - Urg 5
+    - Urg 6
+    - Urg 7
+    - Urg 8
+  group_column: "#"
+  aggregate_threads: true
+  category_strategy: rn_only
+  category_weights:
+    rn: 2.0
+    responder: 1.5
+    crowd: 1.0
+  merge:
+    fuzzy: true
+    fuzzy_threshold: 0.92
+
+splits:
+  test_size: 0.25
+  val_size: 0.25
+  group_column: group_id
+  stratify_column: category_gold
+  cv_folds: 5
+  cv_group_column: group_id
+
+openai:
+  model: gpt-5-nano
+  judge_model: gpt-5-nano
+  embedding_model: text-embedding-3-large
+  temperature: 0
+  max_retries: 4
+  cache_path: /Users/leobix/ai4crisis/artifacts/openai_cache.sqlite
+  batch_size: 64
+  dry_run: false
+  save_embeddings: true
+  embeddings_output_dir: artifacts/embeddings
+
+ml:
+  ordinal: false
+  category_multilabel: true
+  category_threshold: 0.5
+  lgbm_params:
+    n_estimators: 200
+    learning_rate: 0.05
+    max_depth: -1
+    num_leaves: 63
+    verbosity: -1
+  lgbm_log_period: 25
+  calibration:
+    method: temperature
+  sequential_option: feature_concat
+  # ALL IMPROVEMENTS: Everything enabled
+  use_class_weights: true
+  use_feature_scaling: true
+  use_category_weights: true
+  grid_search:
+    enabled: true
+    metric: category_macro_f1
+    max_trials: 12
+    apply_to_cv: false
+    param_grid:
+      num_leaves: [31, 63]
+      min_data_in_leaf: [20, 50, 100]
+      feature_fraction: [0.6, 0.8]
+      bagging_fraction: [0.8, 1.0]
+      bagging_freq: [0, 1]
+      lambda_l2: [0.0, 1.0]
+
+mlp:
+  hidden_sizes: [512, 256, 128]
+  dropout: 0.2
+  lr: 0.001
+  weight_decay: 0.0001
+  batch_size: 64
+  epochs: 50
+  patience: 10
+  loss_weights:
+    category: 1.0
+    urgency_overall: 1.75
+    urgency_per_category: 1.25
+  use_focal_loss: false
+  focal_gamma: 2.0
+  focal_alpha: 0.25
+  scheduler: cosine
+  grid_search:
+    enabled: false
+    metric: category.jaccard
+    mode: max
+
+elo:
+  anchor_per_level: 10
+  strategy: binary_search
+  max_comparisons: 8
+
+policy:
+  t_high: 0.6
+  t_high2: 0.8
+  t_low: 0.8
+  t_cat: 0.55
+  max_disagreement: 1.0
+
+cluster:
+  umap_dim: 10
+  min_cluster_size: 5
+  llm_labeling: false
+  scope: all
+
+report:
+  ndcg_k: 50
+  recall_k: 50
+
+pipelines:
+  llm_joint: false
+  llm_sequential: false
+  oracle_llm: false
+  ml_joint: true
+  ml_joint_filtered: true
+  ml_sequential: true
+  ml_cv: true
+  clustering: true
+  elo_ranking: false
+  policy: true

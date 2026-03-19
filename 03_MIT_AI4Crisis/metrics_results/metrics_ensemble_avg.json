@@ -1,0 +1,63 @@
+{
+  "category": {
+    "accuracy": 0.265,
+    "macro_f1": 0.42379527168041237,
+    "micro_f1": 0.6129032258064516,
+    "jaccard": 0.51375
+  },
+  "category_auc": {
+    "per_category": {
+      "Emergency": 0.5392849496895739,
+      "Other": 0.7850085694122392,
+      "Public Health": 0.7034703801945181,
+      "Services Available": 1.0,
+      "Vital Lines": 0.6197126895450917
+    },
+    "macro_auc": 0.7294953177682846,
+    "micro_auc": 0.8173601979691723
+  },
+  "urgency": {
+    "mae": 2.26,
+    "qwk": 0.0,
+    "high_precision": 0.0,
+    "high_recall": 0.0,
+    "high_f1": 0.0,
+    "high_auc": 0.5,
+    "boundary_crossing_rate": 0.145,
+    "weighted_mae": 2.925
+  },
+  "urgency_per_category": {
+    "Urg 1": {
+      "mae": 0.13,
+      "n_samples": 6
+    },
+    "Urg 2": {
+      "mae": 1.555,
+      "n_samples": 127
+    },
+    "Urg 3": {
+      "mae": 0.17,
+      "n_samples": 17
+    },
+    "Urg 4": {
+      "mae": 0.425,
+      "n_samples": 20
+    },
+    "Urg 5": {
+      "mae": 0.0,
+      "n_samples": 0
+    },
+    "Urg 6": {
+      "mae": 0.0,
+      "n_samples": 0
+    },
+    "Urg 7": {
+      "mae": 0.025,
+      "n_samples": 1
+    },
+    "Urg 8": {
+      "mae": 0.3,
+      "n_samples": 29
+    }
+  }
+}

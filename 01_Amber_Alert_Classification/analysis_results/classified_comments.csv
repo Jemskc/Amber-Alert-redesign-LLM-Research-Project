@@ -1,0 +1,171 @@
+id,parent_id,post_id,username,score,comments,time,comment,Design Principle
+1gicej0,ROOT,1gicej0,ArtisticComplaint3,1561,636,10 months ago,They know everyone has turned off Amber Alerts so they do this crap.,Information Access & Delivery Management
+lv47wue,1gicej0,1gicej0,Jmc_da_boss,787,102,10 months ago,Oh my god that's why i got it?!?! I have amber alerts turned off and was trying to figure out how it got turned back on. Fuck this state,Information Display & Formatting
+lv4yh45,lv4om4p,1gicej0,TemporaryReturn9828,90,2,10 months ago,I thought I had read that date incorrectly. Child is in imminent danger?  For 5 months?,Information Display & Formatting
+lv538s7,lv4yh45,1gicej0,Chava22611,42,0,10 months ago,I was thinking the same thing like wtf are they waiting for so long to report it.,Information Access & Delivery Management
+lv67zim,lv4yh45,1gicej0,Chillout-001,11,0,10 months ago,After 5 months the exigency is gone 🤷‍♂️,Information Display & Formatting
+lv4pe6c,lv4om4p,1gicej0,JBWentworth_,80,3,10 months ago,I thought they were not supposed to put out an Amber Alert for non-custodial parents?,"Security, Privacy & Compliance"
+lv9g4ws,lv4pe6c,1gicej0,,1,0,10 months ago,"depends.. if someone lost custody and grabbed the child and ran that is technically kidnapping.
+
+I don’t like it being blasted everywhere for familial disputes but i’d also rather get ones where a child being taken is involved than get nothing at all",Information Display & Formatting
+lvff13j,lv4pe6c,1gicej0,Bbkingml13,1,0,10 months ago,Probably depends on if they’re violent.,Information Display & Formatting
+lv73bkv,lv4om4p,1gicej0,sherespondedwith,15,0,10 months ago,"It’s because they had recently found the vehicle they’d been in, but were still not able to find the people. So they put out the alert. Not saying I agree with it happening, but that’s why it did.",Information Display & Formatting
+lvff5dt,lv8501i,1gicej0,Bbkingml13,1,1,10 months ago,You do realize parents are capable of harming their children too?,Information Access & Delivery Management
+lvkjaoq,lvff5dt,1gicej0,Lampietheclown,1,0,10 months ago,Of course.  But I don’t know of any way to tell from an amber alert if that’s the case.  They trashed any trust they may have had with the public by abusing the system and flooding our phones with Amber Alerts where it was not the case.  You can only cry wolf so many times.,Information Display & Formatting
+lv5iyu0,lv47wue,1gicej0,glennlopez,103,6,10 months ago,"Had all my alerts turned off except ""Extreme Threats"" and still got this Amber alert. At this point, I don't trust the Emergency Alert System sent out by Texas anymore,
+
+
+
+So I just forcefully uninstalled it.
+
+
+**Uninstalled using ADB (no root needed):** 
+`pm uninstall -k --user 0 com.android.cellbroadcastreceiver` 
+`pm uninstall -k --user 0 com.google.android.cellbroadcastreceiver`
+
+
+Installed Red Cross Emergency App:
+https://www.redcross.org/get-help/how-to-prepare-for-emergencies/mobile-apps.html
+
+
+No more miscategorized Amber and Blue alerts as ""Public Emergency"". App also respects do not disturb mode by default.","Security, Privacy & Compliance"
+lv78ti3,lv6n76p,1gicej0,Mixed-Meta-Force,13,0,10 months ago,"Get the MyRadar app. It is extremely accurate on heavy rain, flood, and tornado alerts. And even the free version is customizable to what alerts you want to receive. And only minor crawl ads across the bottom, which don’t affect the maps, settings, or alerts. It’s what an app like this should be.",Information Display & Formatting
+lv6ueft,lv5iyu0,1gicej0,ArtisticComplaint3,1,0,10 months ago,"Is there a way to do this on iPhone and can you do it for national alerts? I don’t need the government sending out blast alerts I already get enough political junk texts.
+
+Sorry not a huge tech nerd.",Information Access & Delivery Management
+lv7o331,lv48dlg,1gicej0,Specialist_Window_65,31,44,10 months ago,Someone's child is missing,Information Display & Formatting
+lvd7e9h,lv8hibi,1gicej0,RuinedBooch,1,0,10 months ago,"They generally target amber alerts to the area if the abduction, and areas the abductor is connected to. So if the child was abducted in Heartland, but the suspected parent is from Lubbock, they would include Lubbock in the alert.",Information Access & Delivery Management
+lvd7eyj,lv8hibi,1gicej0,RuinedBooch,1,2,10 months ago,"They generally target amber alerts to the area if the abduction, and areas the abductor is connected to. So if the child was abducted in Heartland, but the suspected parent is from Lubbock, they would include Lubbock in the alert.",Information Display & Formatting
+lve1o0p,lvdoowb,1gicej0,RuinedBooch,1,0,10 months ago,Fair enough 🤭,Information Display & Formatting
+lv83t81,lv7o331,1gicej0,Lampietheclown,79,18,10 months ago,The child and the “abductor” both have the same last name.  Probably the mother.  This is a domestic dispute.  Most Amber Alerts are.,Information Display & Formatting
+lv8ch6e,lv83t81,1gicej0,Physical-Object8171,31,9,10 months ago,"Some parents are dangerous to the child, which is why they’re not supposed to have the child. Hence still a domestic dispute, but the child is in danger. I agree a lot of the time it’s just a custody thing but these people are breaking the law and they know it. Maybe they snapped but still not a good environment for a child when the parent in charge isn’t thinking clearly",Information Display & Formatting
+lv8tgly,lv8ch6e,1gicej0,oopsiswitchedupagain,25,0,10 months ago,The kid was last seen in JULY. News articles would’ve been better to benefit the case rather than the annoying bs they pull. They could literally be anywhere at this point.,Information Display & Formatting
+lvcm327,lv8ch6e,1gicej0,,1,2,10 months ago,[removed],Information Display & Formatting
+lvd8bba,lvcm327,1gicej0,Historical_Dentonian,3,1,10 months ago,Something dangerous and 400 to 600 miles from DFW most of the time.,Information Access & Delivery Management
+lvz8ep5,lvd8bba,1gicej0,Mouthy_Dumptruck,1,0,10 months ago,"I'd take things so much more seriously if they had a fraction of a chance of being remotely relevant  to my zip code. 
+
+Amber alert in a town 6 hours away
+
+Silver alert in a town 11 hours away
+
+Hail and tornado warning in a town 1.5 hours away
+
+All the texas alert system does is cry wolf for more than half the state at any given time.",Information Access & Delivery Management
+lvcuy0o,lv8ch6e,1gicej0,Active-Safety-5635,1,4,10 months ago,"Wow! It’s amazing to see there’s finally one comment/person that gets it. I totally understand how annoying it could be to get a loud disturbing alert while you’re just trying to live/sleep. But cmon it’s a child, it’s a little baby. Tomorrow, it could be yours ( I pray not though) but imagine if it is yours, and you know there are people out there that hate the fact that they’re going to get an alert on their phone about a missing child. Kind of scary, how we prioritize certain things more than the other, while the other thing should actually be something we all care about even more. Again, no hate to others! It’s just scary to see y’all be triggered and annoyed by an alert that’s talking about a MISSING CHILD.  Sadly, a lot of these kids that go missing, are never found (one can only imagine what life they live). A small percentage are found because of these amber alerts. I’d rather get all the alerts necessary if at all it could even help 1 child. ☺️",Information Display & Formatting
+lvcx4j8,lvcuy0o,1gicej0,ponder_life,1,2,10 months ago,"That's your wishful thinking. That every one will be willing to tolerate the alert, pay attention to it even, and help with locating the missing child. 
+
+Here is the reality: Most people don't care. They are already trying to make it through the day - a random child in danger in a random location (the state is huge) which most likely they have no chance of helping in anyway isn't something they will pay attention to. Hence, they turn off the alert when it becomes too annoying because it is basically useless.
+
+Until they can figure out making it location specific, people are going to turn off alerts because it's not meaningful at all. They might as well be alerting about crimes in New York.",Information Access & Delivery Management
+lvd0qp1,lvcx4j8,1gicej0,Active-Safety-5635,1,1,10 months ago,"I get what you’re saying. If it’s specific it may make everything a little easier, thus, people won’t turn off their alerts. But kidnappers don’t really leave a lot of clues you know. Sometimes it is difficult to pin point where the kid could have been picked up. Or where the kidnapper (be it a parent or someone random) could be heading towards. Honestly, I wouldn’t be surprised if a kid is picked up at location A and been taken to location B which could be an hour or 2 or even 3 hours away( no one’s going to stay in one location if they plan on taking away a child). Wouldn’t then it be obvious for people surrounding a town that maybe be even 300 miles away receive an amber alert. Definitely, no one likes getting 5 to 10 alerts per day. But if it were like this - either you get an alert or not. I would choose to get one, because you never really know if you could end up helping someone. Again, I don’t think people who are complaining about amber alerts don’t want to help kids, I don’t think that at all. No one is that selfish, I get it. But to turn off your alerts, or have such a huge issue with it. It’s a little too much. I see comments where people say it’s just another parent who took away the kid. Family dispute only and blah blah blah. But that still could be very dangerous, you never know if the kid is actually safe. A lot of these kids that are picked up by another parent are never found. Many of them even murdered or taken away by abusive individuals. Just the thought of that is scary. So yeah, I may be a little naive and very optimistic about these annoying alerts.. but out of 10 not very specific alerts, if even one or two could actually help out a kid in need, I’d be cool with it. Without a thought or doubt, I’d be cool with it. 😅",Information Display & Formatting
+lxpubgf,lvd0qp1,1gicej0,Ragnarrahl,1,0,10 months ago,"It's not out of ten. Every one of those alerts is alerting millions of people. Probably causing a few random auto accidents, either directly or through lost sleep. Alerting the perpetrator as to *exactly* what clues he needs to change, assuming there even is a perpetrator (something like 1 in 6 are *outright hoaxes*. And certainly not doing a lick of good.",Information Display & Formatting
+mh5vxnj,lvcuy0o,1gicej0,Warm-Veterinarian672,1,0,6 months ago,"Yeah you’re so empathetic bro. People having literal fucking seizures or panic attacks over those obnoxious PTSD-provoking sirens are just experiencing mild inconveniences, sure. Considering that they’re not helping anyone with this and have no relation to any crimes, they still should suffer, so just parents experiencing grief wouldn’t be so resentful, great idea!
+Amber alert system is useful, for sure, but they made it optional for a reason. I wish it could be possible to turn those notifications to vibration-only mode, though, as a compromise.",Information Display & Formatting
+lv9q1ti,lv83t81,1gicej0,Aworthyopponent,7,1,10 months ago,I attended a presentation recently and they said anytime they post these parent abduction Amber Alerts is because there was attempted murder or attempted serious bodily harm to get the child or to flee with the child.,Information Display & Formatting
+mf73arm,lv9q1ti,1gicej0,Professional_Buy_615,1,0,7 months ago,Almost all of them are custody disputes. It can be as stupid as bringing a child back late as you lost a tire on the way back from a weekend trip. Very few of them were in peril.,Information Display & Formatting
+lv91p29,lv83t81,1gicej0,Jaded_Cheesecake_993,13,5,10 months ago,It's still a missing child. I hope none of your kids or kids you're close to go missing with how heartless you are about it.,Information Display & Formatting
+lvar7v8,lv91p29,1gicej0,melliott716,5,0,10 months ago,"Perhaps you’ve heard the story about the boy who cried “Wolf!” …?
+
+Without a license plate, and with scarce details (black female with pre-teen black male) IMHO this particular alert does more harm than good, by increasing the # of people turning off public safety alerts.",Information Display & Formatting
+lvdxxe7,lv91p29,1gicej0,Lampietheclown,2,3,10 months ago,"You’re talking about a mother “stealing” her own child.  Can a child really be missing when it’s with its mother?  
+
+Perhaps the father is a better parent, or perhaps she is.  Supporting either one without any other information is sheer hubris.  You’ve got a 50% chance of picking the wrong parent, and making things worse.  Better to let them deal with their own issues.  
+
+And before you mention it, I don’t consider child protective services and family courts to be reliable indicators.  I’ve seen them get it wrong too many times to just take their word for it.",Information Display & Formatting
+lxptsr1,lvkz6yw,1gicej0,Ragnarrahl,1,0,10 months ago,The odds of a court system correctly identifying which ones beforehand are astronomically low.,Information Display & Formatting
+lv8jj2s,lv7o331,1gicej0,Expensive-Border-869,8,9,10 months ago,I really don't care. Tf you expect me to do? Go find them let the cops do that,User Interaction & Engagement
+lvkvhfj,lv8jj2s,1gicej0,RubAnADUB,2,0,10 months ago,oh look theres a black GMC... like the other 1000 of them on the road. How about a better description. Black GMC yukon rolling on chrome 20's and nitto tires with a gay pride rainbow sticker on the left hand side suspect wearing a MAGA red hat.,Information Display & Formatting
+lv8tyu1,lv8jj2s,1gicej0,,4,2,10 months ago,I don’t think cops do that,Information Display & Formatting
+lv9vpw9,lv8tyu1,1gicej0,Expensive-Border-869,5,0,10 months ago,Then especially don't ask me to,Information Display & Formatting
+lvb27yj,lv8tyu1,1gicej0,SnowPrinterTX,2,0,10 months ago,No they’re too busy violating people’s rights and body slamming them,"Security, Privacy & Compliance"
+lvfexr7,lv8jj2s,1gicej0,Bbkingml13,1,2,10 months ago,"The amber alert originated out of Arlington. Because a girl named Amber, who was kidnapped and killed, could have been saved by the hundreds of people who saw the truck driving in traffic through Arlington after kidnapping her. Very quickly after starting Amber alerts, a child was saved by a motorist who saw the car she’d just heard on the amber alert.",Information Display & Formatting
+lvxcysv,lvftfjn,1gicej0,Choice-Ad-7367,1,0,10 months ago,"Yes!! 100% this, call me selfish or whatever, but I have no time or energy to put into someone else's child that they couldn't keep proper custody/watch/control of..",Information Display & Formatting
+lvad1t4,lv7o331,1gicej0,The_Stereoskopian,2,0,10 months ago,"""Some broken condom's broken condom is missing"" FTFY",Information Display & Formatting
+lvg0h0p,lv7o331,1gicej0,Longjumping-Sugar691,2,0,10 months ago,And me receiving a description of a child is not going to help anything. I have it turned off for a reason,Information Display & Formatting
+lvgo7j3,lv7o331,1gicej0,Great-Apartment-7213,2,0,10 months ago,Wowee let me hop in my truck with a mounted MG to go hunt em down oh wait. I am 4 hours from them.,Information Display & Formatting
+lvgxisk,lv7o331,1gicej0,Late_Being_7730,2,0,10 months ago,"The reason I turned off amber alerts is probably the same reason most people do— we live in a state larger than a significant number of countries.  Amber alerts should be more targeted.  I don’t need to know 10 minutes after a child goes missing in El Paso.  
+
+In healthcare, there’s something called “alarm fatigue.”  The premise is that when call bells in the hospital go off very frequently, response times increase less because of the time to actually respond to a call than because you become desensitized.  
+
+It’s something we’re taught as children… “the boy who cried wolf”. I’m not saying that there isn’t a child missing and that we shouldn’t alert people, but we should be selective as to not inundate people.  Amber alerts should be deployed in a radius rather than a state.  Then, a kid who goes missing on the Oklahoma border, 3 hours away would warrant an alert and someone Amarillo wouldn’t, assuming we’re talking Dallas",Information Access & Delivery Management
+lvvd1dq,lv7o331,1gicej0,RangerBandito,2,0,10 months ago,Yeah usually 600+ miles away and at 1am,Information Access & Delivery Management
+lva76q9,lv7o331,1gicej0,Munch444,2,0,10 months ago,Well then the cops better find them. Fuck I’m gonna do?,Information Display & Formatting
+lvz7x66,lv7o331,1gicej0,Mouthy_Dumptruck,1,0,10 months ago,I'm not finding them in my town 8 hours away.,Information Access & Delivery Management
+lv73qae,lv48dlg,1gicej0,samz22,-16,1,10 months ago,OP giving idc if my child is missing vibes 🥹,Information Display & Formatting
+lv75nhy,lv73qae,1gicej0,ArtisticComplaint3,19,0,10 months ago,"If we got alerts every time someone’s child went missing, you wouldn’t even be able to use your phone.
+
+There’s billboards, highway signs, news stations, news apps, social media, and many more ways to better communicate a missing child and the danger they are in. The reason people are upset is because many people have turned off amber alerts due to the frequency and unnecessary emergency alert noise especially when many of them stem from custody battles where the child is likely in no real danger.
+
+A public safety alert is meant to convey a danger to public safety like a chemical spill, downed power lines, 911 outage, active shooter, or major accident. Sending an amber alert through the public safety alert category makes people turn those off now too and inhibits them from receiving potentially life saving information in a matter of seconds when seconds matter as opposed to wait 15-20 or more minutes for the news media to pick it up and relay the info.
+
+The blue alert that went out last month went out as an emergency alert which is to alert people to imminent danger such as tornadoes, flash flooding, or widespread power outages. That should’ve gone out as a public safety alert within a 10-25 mile radius instead of to the whole state where people can actually keep their eye out.",Information Access & Delivery Management
+lv6ghuv,lv47wue,1gicej0,Consistent_Leg_6765,12,12,10 months ago,"Yeah, I get you. Pissed me off too. 
+
+But…if it was your kid that disappeared (unless your Liam Neeson) you’d want every grouchy SOB in the state to know too. At least I would.",Information Display & Formatting
+lv6shtc,lv6ghuv,1gicej0,Jmc_da_boss,30,9,10 months ago,"Sure, but send it as an amber alert, don't use a public safety alert type because you know so many people have turned off amber alert because you spam them",Information Display & Formatting
+lv7v7yb,lv6shtc,1gicej0,Consistent_Leg_6765,4,0,10 months ago,Fair point.,Information Display & Formatting
+lv72l5a,lv6shtc,1gicej0,ViKING6396,-13,7,10 months ago,"They did, but some of you assholes turned them off, so they have to send it like that as well. Ya'll are insane.",Information Display & Formatting
+lv7q8ed,lv72l5a,1gicej0,pepsiblast08,6,1,10 months ago,I'm living in a whole other state across the country and STILL get Dallas alerts. What am I gonna do about a kid who's been missing for FIVE months?,Information Access & Delivery Management
+lv7yzop,lv7q8ed,1gicej0,ViKING6396,-3,0,10 months ago,"That's obviously different. If it's not even in the same state. They should be statewide, not nationwide, at least not for the week or two.",Information Access & Delivery Management
+lv7629c,lv75rf8,1gicej0,ViKING6396,-7,1,10 months ago,Congrats. You can navigate your way through Reddit profiles. Now stay on topic and give me a good reason as to why you would ever turn off those alerts.,User Interaction & Engagement
+lv7qfuy,lv7629c,1gicej0,pepsiblast08,6,0,10 months ago,"Because there's are MILLIONS of people in DFW. Other than annoying people with alerts, not a single person is running outside like Batman to look for the kid. ESPECIALLY when the alert system is being abused.",Information Display & Formatting
+lv72wq1,lv72l5a,1gicej0,Jmc_da_boss,5,1,10 months ago,And now we have the public safety alerts turned off too. Quit spamming the system,"Security, Privacy & Compliance"
+lv727xo,lv47wue,1gicej0,Electrical-Stick2850,2,1,10 months ago,Man I was wondering the same thing now I know why.  Now I have to debate turning public safety alerts off (which I don’t want to do) but I might have to if they keep abusing the system.  What a joke.,"Security, Privacy & Compliance"
+lv72yq3,lv727xo,1gicej0,Jmc_da_boss,1,0,10 months ago,"I turned them off, not worth it",Information Display & Formatting
+lvjszl2,lv47wue,1gicej0,lastdickontheleft,2,0,10 months ago,I turned off safety alerts too after that last fucking blue alert at 4 something in the morning that was clear on the other side of the state. I wouldn’t have turned off the amber alerts if it hadn’t gone off at a similarly ridiculous time in the middle of the night right before a final exam once,Information Access & Delivery Management
+lv9l12l,lv9khfe,1gicej0,Jmc_da_boss,1,1,10 months ago,"I had them turned off lol, that's the problem. They didn't send it as an amber alert",Information Display & Formatting
+lvap1ew,lv9l12l,1gicej0,Illustrious-Rip1665,1,0,10 months ago,You can disable the public safety alerts and the test alerts as well. I have them all turned off,Information Access & Delivery Management
+lv5mwg6,lv4y37r,1gicej0,EuphoricPhoto2048,14,1,10 months ago,They have the same last name. This is a custody dispute.,Information Display & Formatting
+lv5a6pv,lv4y37r,1gicej0,nocturnalzoo,7,2,10 months ago,"But, it’s Texas, they’re alerts always for babies a thousand miles away",Information Access & Delivery Management
+lvxeyx4,lv6wmtd,1gicej0,Choice-Ad-7367,1,0,10 months ago,and we're supposed to go drive 1000 miles on the highways for someone else's custody disagreement..?? GTFOH get all the way out of here.  These alerts are entirely TOO MUCH!! and not everyone cares about YOUR semen demons...,Information Access & Delivery Management
+lv4ske0,lv47wue,1gicej0,Anemoneao,-18,0,10 months ago,"State sends a text message twice 
+This is literally 1984 levels unbearable",Information Display & Formatting
+lv477yr,1gicej0,1gicej0,howitzeral,487,22,10 months ago,Ridiculous abuse of the system,"Security, Privacy & Compliance"
+lv47p20,lv477yr,1gicej0,ArtisticComplaint3,206,14,10 months ago,"Yeah and I am now turning public safety alerts off and only leaving on emergency alerts because I would much like to know if there’s ever a tornado warning in the middle of the night or like a severe thunderstorm with 80 mph winds so I can get away from the windows.
+
+Next overnight shenanigans like a blue alert and I’m turning those off too.",Information Access & Delivery Management
+lv4j3pe,lv47p20,1gicej0,CyberInferno,57,0,10 months ago,"Same here. And if they hadn't messed with sending alarms so late, I would have left them all on.",Information Access & Delivery Management
+lv4tpg5,lv47p20,1gicej0,False-Catch-3290,34,0,10 months ago,"I’ve turned them all off, because I choose peace in the midnight hours. 😩🥴",Information Display & Formatting
+lw3whr6,lv4v1od,1gicej0,ProbablyABear69,1,1,10 months ago,Doesn't this just use the same emergency service line as your phone?,"Security, Privacy & Compliance"
+lvhethh,lv47p20,1gicej0,Plastic-Conflict7999,1,0,10 months ago,How often do y'all get these that you need to turn it off? I'm in michigan near detroit and the last time I got any alert was a month ago and I have amber alerts turned on.,Information Access & Delivery Management
+lv6fa40,lv47p20,1gicej0,MordFustang1992,0,2,10 months ago,You don’t think the 80mph winds would wake you up if you’re right next to a window?,Information Display & Formatting
+lv6qrjf,lv6fa40,1gicej0,Consistent_Photo6359,4,1,10 months ago,"No, I sleep thru everything I never hear bad weather, my kids are the same.  If I wake up to talk to someone on the phone if I forget to turn off my ringer I remember the phone call as a dream.  
+I do have alarms/radios in place for emergencies.  My husband on the other hand wakes up if a dime falls on the wood floor.  I did hear this alert because I was already awake. However it woke my husband up who has all of his alerts turned off. He was super annoyed, lol.
+I have turned mine off now, sorry.",Information Display & Formatting
+lv7cqc9,lv6qrjf,1gicej0,MordFustang1992,1,0,10 months ago,"Understandable. I’m one of those people that will wake up to the ice maker on the other side of the house and think we are getting robbed or the house is collapsing, so the opposite end of the spectrum.",Information Display & Formatting
+lv6jycu,lv47p20,1gicej0,sneakycatattack,0,0,10 months ago,Blue alerts are a public safety alert. I know this because I only have emergency alerts on and I don’t get the blue ones.,Information Display & Formatting
+lv66j0n,lv477yr,1gicej0,azwethinkweizm,8,0,10 months ago,Join the rest of us who have opted out of the system. I don't get any alerts.,"Security, Privacy & Compliance"
+lv4n1ih,lv477yr,1gicej0,nwzn,18,5,10 months ago,"ngl if in the 1 in a million chance i remembered and saw a car i probably wouldnt even report or involve myself in custody battle.  other stuff sure but i forget these 1 second after the alert anyway. i usually read though, cause im from houston and id see some useful flood alerts if i remember correctly",Information Display & Formatting
+lvffd6u,lv4n1ih,1gicej0,Bbkingml13,2,4,10 months ago,You wouldn’t call the police if you saw a kidnapping by a dangerous person because they have the same last name?,"Security, Privacy & Compliance"
+lvfq40o,lvffd6u,1gicej0,nwzn,1,3,10 months ago,"honestly i would just in case. id probably feel very conflicted while doing it though, just cause theres so many parents out there that abuse 911 for control and id feel like crap if a parent that deserved but lost custody- got their kid for a day and i was the one that put an end to it. its just because i have friends whose parents used 911 like their bitch and it was terrible to watch. you can say its my distrust in legal custody system and maybe im wrong for this and i really hope someone could change my mind too :(","Security, Privacy & Compliance"
+lv4axyb,lv4akxz,1gicej0,ArtisticComplaint3,34,13,10 months ago,The only reason I didn’t turn them off is because of the great 6am shenanigan back in may when there was 80 mph winds and a tornado warning but now I’m done dealing with these stupid alerts.,Information Display & Formatting
+lv4cjst,lv4axyb,1gicej0,4-ton-mantis,8,1,10 months ago,"That is most def a concerning shenanigan.  Sadly a conflict of our own interests.
+
+
+I used to live in Michigan so I'm spoilt to the foolish idea that there would be a klaxon for something like that in an area.  I remember in Lansing they would give it a test toot once every month.  Also I'm inept with my phone settings. ",Information Display & Formatting
+lvcnd84,lv4cjst,1gicej0,Not-Inevitable79,2,0,10 months ago,"They have sirens around the Fort Worth area at least. Didn't have any in Austin (or at least south of Austin). Of all the areas I've lived in throughout the country, the Austin area is the only one that didn't have air raid / severe weather sirens. Weird.",Information Display & Formatting
+lv7w8lk,lv64bgd,1gicej0,Aggravating-Fee-9138,1,0,10 months ago,"Okay, well I hope there’s no windows by your bed",Information Access & Delivery Management
+lvlbc34,lvl28v2,1gicej0,geddieman1,2,0,10 months ago,"Right? That first Amber alert at 3:00 taught me to turn that shit off. I mean, if they’re not rolling through my bedroom, I’m not going to see them.",Information Access & Delivery Management
+lv4dged,lv4ahft,1gicej0,Lawineer,97,4,10 months ago,"If that was 5 school teachers at brunch during a robbery, there wouldn’t have been an alert. 
+I don’t understand why they think police violence is so much worse than anyone else. 
+I mean, there’s a reason shooting opposing soldiers is war and shooting civilians is a war crime.",Information Display & Formatting
+lvjtmhh,lv4dged,1gicej0,Jasperoro,2,0,10 months ago,"Because when someone shoots a cop an enormous manhunt begins and the suspect is likely to be on the run and desperate. That puts the public at huge risk because they will be needing vehicles/other resources in their attempt to flee, so the public is at a higher chance of experiencing violent crime because of it.",Information Display & Formatting
+lv6kkm2,lv6j5um,1gicej0,Lawineer,10,1,10 months ago,"Spitting on a cop is a felony 
+Spitting on a nurse is a traffic ticket level offense.",Information Access & Delivery Management
+lv5zbqe,lv4ahft,1gicej0,HolyForkingBrit,33,2,10 months ago,"I didn’t get an Alert when the Allen mall shooting was occurring. I didn’t get shit when teachers and kids were being slaughtered at Uvalde. I didn’t get anything when the shooting happened at that Dallas High School. 
+
+Yet, we get *multiple* alerts when a cop gets shot hundreds and hundreds of miles away. 
+
+I’m ANGRY AS FUCK that we aren’t getting alerts that could actually protect us. I don’t mind the amber or silver alerts either. I keep my phone on “Do Not Disturb” at night, so I get them when I wake up.
+
+Why not send us actual alerts when there’s a very real threat in our area?",Information Access & Delivery Management
+lv6rxer,lv5zbqe,1gicej0,Empress_Clementine,8,0,10 months ago,"I didn’t either now that I think about it, and the shooter lived about 1/2 mile from me.",Information Access & Delivery Management
+lv8knln,lv5zbqe,1gicej0,Noodles2702,0,0,10 months ago,Why would you need an alert for a school shooting that’s contained inside the school? Also you do get alerts that actually protect you but you’ve just be fortunate enough to thankfully not need one yet,Information Display & Formatting
+lv66x5j,lv4ahft,1gicej0,azwethinkweizm,7,0,10 months ago,I will gladly turn my alerts back on if they can regionalize them.,Information Access & Delivery Management
+lv4sihq,lv4ahft,1gicej0,Phyrnosoma,12,0,10 months ago,"IDK. I lived in Amarillo a long while and turned off Amber Alerts after being alerted in the middle of the damn night multiple times, about shit happening right then in Houston and Brownsville and the like.  We need to make them more region specific",Information Access & Delivery Management
+lv4yzus,lv4ahft,1gicej0,lostwriter,8,0,10 months ago,"I agree. Amber Alerts like this, even in custody situations, are important. It alerts everyone who may know the involved parties. And sometimes (more than we want admit) the abductor may have indicated they plan to harm the child.  I look at every one of these and hope I never know any of them. Silver alerts make me sad. It’s usually dementia. I went through that with my dad and MIL. Those first few times they get lost before you know to put safeguards in place are scary.",Information Display & Formatting
+lv4baip,lv4ahft,1gicej0,ArtisticComplaint3,16,6,10 months ago,Even so there needs to be a different alert tone for alerts so you know there’s an actual emergency or just a an amber alert before you even glance at your phone.,Information Display & Formatting
+lv4qu4x,lv4baip,1gicej0,Tall_Helicopter_833,11,0,10 months ago,"Why is there no link to a picture included? Are only people that know them supposed to be looking?
+
+Just seems worthless.",Information Display & Formatting
+lv4efkb,lv4baip,1gicej0,Totinos160count,13,4,10 months ago,I mean… Amber alerts could be a possible emergency.,Information Display & Formatting

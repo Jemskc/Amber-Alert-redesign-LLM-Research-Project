@@ -1,0 +1,40 @@
+SECTION 1: EXECUTIVE SUMMARY
+Metric,Value,Note
+Total Comments Processed,81517,Unique Rows
+Majority Consensus Rate,61.62%,Rows where >=2 models matched exactly
+Perfect Agreement Rate,23.18%,Rows where 3 models matched exactly
+Relevant Signal Ratio,65.95%,Rows that are NOT 'None'
+
+
+
+SECTION 2: CAPABILITY FREQUENCY TABLE
+IT Capability,Final Consensus Count,Llama Detection,Mistral Detection,Falcon Detection,Status
+None,27759,30497,28657,31187,DETECTED
+Affective Communication Capability,15396,23760,12265,16788,DETECTED
+Notification Management Capability,13918,14635,12912,13760,DETECTED
+Keynoting Capability,5421,10363,5032,5586,DETECTED
+Threat Intelligence Capability,3200,10206,3085,2525,DETECTED
+Mapping Capability,2991,3399,2754,3854,DETECTED
+Multiplatform Integration Capability,2866,5936,2336,2909,DETECTED
+Helping Capability,2167,12654,2139,1852,DETECTED
+Other Capability,2133,6241,215,7527,DETECTED
+Reporting Capability,1914,3948,3354,3116,DETECTED
+Updating Capability,1907,3583,1348,2998,DETECTED
+Engagement Capability,1863,308,10842,3971,DETECTED
+Multimedia Capability,1436,3075,1379,1632,DETECTED
+Peer Sharing Capability,298,1027,463,851,DETECTED
+Retrieval Capability,240,435,181,1070,DETECTED
+Reminder Capability,184,348,588,578,DETECTED
+Privacy Capability,165,101,334,305,DETECTED
+Rewarding Capability,105,151,49,1719,DETECTED
+Tip-Verification Capability,0,0,0,0,NOT DETECTED
+
+
+
+SECTION 3: RESEARCH DEEP DIVE
+Metric Category,Item,Value,Note
+Data Composition,Noise Ratio (Irrelevant),34.05%,Classified as 'None'
+Data Complexity,Multi-Label Rate,12.55%,Comments with 2+ labels
+Model Bias,Llama Total Detections,130667,Total tags found
+Model Bias,Mistral Total Detections,87933,Total tags found
+Model Bias,Falcon Total Detections,102228,Total tags found

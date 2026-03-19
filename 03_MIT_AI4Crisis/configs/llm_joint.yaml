@@ -1,0 +1,14 @@
+run_name: llm_joint
+output_root: outputs/triage_outputs
+
+data:
+  urgency_xlsx: Final_Merged_All_Columns.xlsx
+  category_xlsx: Final_Merged_All_Columns.xlsx
+  urgency_sheet: Sheet1
+  category_sheet: Sheet1
+  urgency_columns: ["Urg 1", "Urg 2", "Urg 3", "Urg 4", "Urg 5", "Urg 6", "Urg 7", "Urg 8"]
+
+openai:
+  model: gpt-5-nano
+  temperature: 0
+  dry_run: false

@@ -1,0 +1,241 @@
+﻿topic_id,topic_name,keyword,score
+0,Topic0_lol_know_good_like,lol,0.024146
+0,Topic0_lol_know_good_like,know,0.023472
+0,Topic0_lol_know_good_like,good,0.022923
+0,Topic0_lol_know_good_like,like,0.020226
+0,Topic0_lol_know_good_like,movie,0.020101
+0,Topic0_lol_know_good_like,joke,0.018261
+0,Topic0_lol_know_good_like,just,0.017982
+0,Topic0_lol_know_good_like,https,0.017927
+0,Topic0_lol_know_good_like,bot,0.017763
+0,Topic0_lol_know_good_like,shit,0.017481
+1,Topic1_police_cops_people_kids,police,0.052961
+1,Topic1_police_cops_people_kids,cops,0.043616
+1,Topic1_police_cops_people_kids,people,0.022688
+1,Topic1_police_cops_people_kids,kids,0.020367
+1,Topic1_police_cops_people_kids,children,0.018131
+1,Topic1_police_cops_people_kids,like,0.018122
+1,Topic1_police_cops_people_kids,cop,0.017522
+1,Topic1_police_cops_people_kids,just,0.016983
+1,Topic1_police_cops_people_kids,child,0.016946
+1,Topic1_police_cops_people_kids,don,0.01685
+2,Topic2_people_twitter_news_just,people,0.026621
+2,Topic2_people_twitter_news_just,twitter,0.025139
+2,Topic2_people_twitter_news_just,news,0.02449
+2,Topic2_people_twitter_news_just,just,0.021767
+2,Topic2_people_twitter_news_just,white,0.021008
+2,Topic2_people_twitter_news_just,point,0.020468
+2,Topic2_people_twitter_news_just,men,0.019641
+2,Topic2_people_twitter_news_just,don,0.018962
+2,Topic2_people_twitter_news_just,like,0.018267
+2,Topic2_people_twitter_news_just,agree,0.017132
+3,Topic3_trump_vote_gun_biden,trump,0.061823
+3,Topic3_trump_vote_gun_biden,vote,0.03649
+3,Topic3_trump_vote_gun_biden,gun,0.026794
+3,Topic3_trump_vote_gun_biden,biden,0.025239
+3,Topic3_trump_vote_gun_biden,purge,0.024889
+3,Topic3_trump_vote_gun_biden,guns,0.022687
+3,Topic3_trump_vote_gun_biden,people,0.018298
+3,Topic3_trump_vote_gun_biden,2020,0.018088
+3,Topic3_trump_vote_gun_biden,like,0.017404
+3,Topic3_trump_vote_gun_biden,government,0.016775
+4,Topic4_poop_reverse_room_bathroom,poop,0.057364
+4,Topic4_poop_reverse_room_bathroom,reverse,0.049476
+4,Topic4_poop_reverse_room_bathroom,room,0.038978
+4,Topic4_poop_reverse_room_bathroom,bathroom,0.035647
+4,Topic4_poop_reverse_room_bathroom,shit,0.03548
+4,Topic4_poop_reverse_room_bathroom,missed,0.033161
+4,Topic4_poop_reverse_room_bathroom,just,0.032611
+4,Topic4_poop_reverse_room_bathroom,ðÿ,0.030754
+4,Topic4_poop_reverse_room_bathroom,wanted,0.030262
+4,Topic4_poop_reverse_room_bathroom,wife,0.028392
+5,Topic5_canada_canadian_america_texas,canada,0.061609
+5,Topic5_canada_canadian_america_texas,canadian,0.031749
+5,Topic5_canada_canadian_america_texas,america,0.031731
+5,Topic5_canada_canadian_america_texas,texas,0.028283
+5,Topic5_canada_canadian_america_texas,canadians,0.023588
+5,Topic5_canada_canadian_america_texas,north,0.023365
+5,Topic5_canada_canadian_america_texas,people,0.022402
+5,Topic5_canada_canadian_america_texas,american,0.020175
+5,Topic5_canada_canadian_america_texas,state,0.019805
+5,Topic5_canada_canadian_america_texas,north america,0.019676
+6,Topic6_ðÿ_ðÿ ðÿ_que_la,ðÿ,0.439433
+6,Topic6_ðÿ_ðÿ ðÿ_que_la,ðÿ ðÿ,0.373709
+6,Topic6_ðÿ_ðÿ ðÿ_que_la,que,0.154894
+6,Topic6_ðÿ_ðÿ ðÿ_que_la,la,0.118196
+6,Topic6_ðÿ_ðÿ ðÿ_que_la,le,0.114346
+6,Topic6_ðÿ_ðÿ ðÿ_que_la,en,0.099384
+6,Topic6_ðÿ_ðÿ ðÿ_que_la,yta,0.092531
+6,Topic6_ðÿ_ðÿ ðÿ_que_la,pour,0.07968
+6,Topic6_ðÿ_ðÿ ðÿ_que_la,se,0.067049
+6,Topic6_ðÿ_ðÿ ðÿ_que_la,da,0.060428
+7,Topic7_send_gay_dick_penis,send,0.495225
+7,Topic7_send_gay_dick_penis,gay,0.203737
+7,Topic7_send_gay_dick_penis,dick,0.156864
+7,Topic7_send_gay_dick_penis,penis,0.153936
+7,Topic7_send_gay_dick_penis,mom,0.100184
+7,Topic7_send_gay_dick_penis,ur,0.074107
+7,Topic7_send_gay_dick_penis,pp,0.067219
+7,Topic7_send_gay_dick_penis,pee,0.06397
+7,Topic7_send_gay_dick_penis,balls,0.052783
+7,Topic7_send_gay_dick_penis,big,0.039184
+8,Topic8_amber_alerts_alert_amber alert,amber,0.103461
+8,Topic8_amber_alerts_alert_amber alert,alerts,0.086665
+8,Topic8_amber_alerts_alert_amber alert,alert,0.083265
+8,Topic8_amber_alerts_alert_amber alert,amber alert,0.067461
+8,Topic8_amber_alerts_alert_amber alert,amber alerts,0.066429
+8,Topic8_amber_alerts_alert_amber alert,phone,0.036757
+8,Topic8_amber_alerts_alert_amber alert,sound,0.019812
+8,Topic8_amber_alerts_alert_amber alert,people,0.017826
+8,Topic8_amber_alerts_alert_amber alert,night,0.017385
+8,Topic8_amber_alerts_alert_amber alert,silent,0.015367
+9,Topic9_roll_raid_music_game,roll,0.115531
+9,Topic9_roll_raid_music_game,raid,0.102597
+9,Topic9_roll_raid_music_game,music,0.08597
+9,Topic9_roll_raid_music_game,game,0.077053
+9,Topic9_roll_raid_music_game,link,0.07101
+9,Topic9_roll_raid_music_game,gonna,0.064121
+9,Topic9_roll_raid_music_game,song,0.059298
+9,Topic9_roll_raid_music_game,subscribe,0.059298
+9,Topic9_roll_raid_music_game,play,0.050568
+9,Topic9_roll_raid_music_game,listen,0.047021
+10,Topic10_kill_didn_didnâ_didnt,kill,0.949241
+10,Topic10_kill_didn_didnâ_didnt,didn,0.510508
+10,Topic10_kill_didn_didnâ_didnt,didnâ,0.407327
+10,Topic10_kill_didn_didnâ_didnt,didnt,0.141718
+10,Topic10_kill_didn_didnâ_didnt,did,0.063712
+10,Topic10_kill_didn_didnâ_didnt,killed,0.036109
+10,Topic10_kill_didn_didnâ_didnt,self,0.032322
+10,Topic10_kill_didn_didnâ_didnt,suicide,0.029394
+10,Topic10_kill_didn_didnâ_didnt,commit,0.021863
+10,Topic10_kill_didn_didnâ_didnt,murdered,0.016734
+11,Topic11_thanks_nice_sorry_welcome,thanks,0.294679
+11,Topic11_thanks_nice_sorry_welcome,nice,0.242335
+11,Topic11_thanks_nice_sorry_welcome,sorry,0.087494
+11,Topic11_thanks_nice_sorry_welcome,welcome,0.06542
+11,Topic11_thanks_nice_sorry_welcome,good,0.063861
+11,Topic11_thanks_nice_sorry_welcome,thank,0.056796
+11,Topic11_thanks_nice_sorry_welcome,ah,0.055893
+11,Topic11_thanks_nice_sorry_welcome,right,0.04891
+11,Topic11_thanks_nice_sorry_welcome,amazing,0.046668
+11,Topic11_thanks_nice_sorry_welcome,yeah,0.045896
+12,Topic12_belong_base_moon_look,belong,0.1088
+12,Topic12_belong_base_moon_look,base,0.108325
+12,Topic12_belong_base_moon_look,moon,0.099053
+12,Topic12_belong_base_moon_look,look,0.057725
+12,Topic12_belong_base_moon_look,aliens,0.05311
+12,Topic12_belong_base_moon_look,earth,0.052495
+12,Topic12_belong_base_moon_look,attention,0.047548
+12,Topic12_belong_base_moon_look,god,0.046543
+12,Topic12_belong_base_moon_look,coming,0.045395
+12,Topic12_belong_base_moon_look,sun,0.040764
+13,Topic13_charger_phone_apple_phones,charger,0.094876
+13,Topic13_charger_phone_apple_phones,phone,0.092285
+13,Topic13_charger_phone_apple_phones,apple,0.084585
+13,Topic13_charger_phone_apple_phones,phones,0.048334
+13,Topic13_charger_phone_apple_phones,daughter,0.04574
+13,Topic13_charger_phone_apple_phones,iphone,0.040575
+13,Topic13_charger_phone_apple_phones,android,0.039063
+13,Topic13_charger_phone_apple_phones,sister,0.033246
+13,Topic13_charger_phone_apple_phones,nta,0.028921
+13,Topic13_charger_phone_apple_phones,buy,0.023996
+14,Topic14_nuclear_war_virus_nuke,nuclear,0.110128
+14,Topic14_nuclear_war_virus_nuke,war,0.04338
+14,Topic14_nuclear_war_virus_nuke,virus,0.043354
+14,Topic14_nuclear_war_virus_nuke,nuke,0.034081
+14,Topic14_nuclear_war_virus_nuke,bomb,0.02949
+14,Topic14_nuclear_war_virus_nuke,vaccines,0.027543
+14,Topic14_nuclear_war_virus_nuke,anti,0.02321
+14,Topic14_nuclear_war_virus_nuke,north,0.020807
+14,Topic14_nuclear_war_virus_nuke,just,0.019604
+14,Topic14_nuclear_war_virus_nuke,power,0.017909
+15,Topic15_yes_thought_yep_yup,yes,0.624083
+15,Topic15_yes_thought_yep_yup,thought,0.245018
+15,Topic15_yes_thought_yep_yup,yep,0.243191
+15,Topic15_yes_thought_yep_yup,yup,0.188152
+15,Topic15_yes_thought_yep_yup,nope,0.181147
+15,Topic15_yes_thought_yep_yup,lol,0.09214
+15,Topic15_yes_thought_yep_yup,thing,0.090702
+15,Topic15_yes_thought_yep_yup,yeah,0.083279
+15,Topic15_yes_thought_yep_yup,thinking,0.062655
+15,Topic15_yes_thought_yep_yup,hell,0.059233
+16,Topic16_work_employees_job_center,work,0.064387
+16,Topic16_work_employees_job_center,employees,0.064126
+16,Topic16_work_employees_job_center,job,0.061292
+16,Topic16_work_employees_job_center,center,0.05145
+16,Topic16_work_employees_job_center,company,0.050475
+16,Topic16_work_employees_job_center,card,0.03756
+16,Topic16_work_employees_job_center,paid,0.032927
+16,Topic16_work_employees_job_center,credit card,0.032882
+16,Topic16_work_employees_job_center,credit,0.031809
+16,Topic16_work_employees_job_center,phone,0.031521
+17,Topic17_water_heat_hot_weather,water,0.096934
+17,Topic17_water_heat_hot_weather,heat,0.055453
+17,Topic17_water_heat_hot_weather,hot,0.054896
+17,Topic17_water_heat_hot_weather,weather,0.054334
+17,Topic17_water_heat_hot_weather,summer,0.038914
+17,Topic17_water_heat_hot_weather,uk,0.037601
+17,Topic17_water_heat_hot_weather,air,0.034462
+17,Topic17_water_heat_hot_weather,year,0.027016
+17,Topic17_water_heat_hot_weather,cold,0.025943
+17,Topic17_water_heat_hot_weather,winter,0.025006
+18,Topic18_sleep_time_savings_accidents,sleep,0.130413
+18,Topic18_sleep_time_savings_accidents,time,0.066807
+18,Topic18_sleep_time_savings_accidents,savings,0.063308
+18,Topic18_sleep_time_savings_accidents,accidents,0.049495
+18,Topic18_sleep_time_savings_accidents,wake,0.042709
+18,Topic18_sleep_time_savings_accidents,hour,0.038259
+18,Topic18_sleep_time_savings_accidents,day,0.038037
+18,Topic18_sleep_time_savings_accidents,bed,0.035636
+18,Topic18_sleep_time_savings_accidents,shift,0.035196
+18,Topic18_sleep_time_savings_accidents,sleeping,0.032477
+19,Topic19_pissing_got_lol_haha,pissing,0.266867
+19,Topic19_pissing_got_lol_haha,got,0.166033
+19,Topic19_pissing_got_lol_haha,lol,0.1185
+19,Topic19_pissing_got_lol_haha,haha,0.10609
+19,Topic19_pissing_got_lol_haha,confused,0.102178
+19,Topic19_pissing_got_lol_haha,thought,0.076237
+19,Topic19_pissing_got_lol_haha,exactly,0.068667
+19,Topic19_pissing_got_lol_haha,yeah,0.06694
+19,Topic19_pissing_got_lol_haha,exact,0.065823
+19,Topic19_pissing_got_lol_haha,angle,0.046042
+20,Topic20_test_failed_shit_ðÿ,test,1.088332
+20,Topic20_test_failed_shit_ðÿ,failed,0.602784
+20,Topic20_test_failed_shit_ðÿ,shit,0.090895
+20,Topic20_test_failed_shit_ðÿ,ðÿ,0.086578
+20,Topic20_test_failed_shit_ðÿ,check,0.078715
+20,Topic20_test_failed_shit_ðÿ,tests,0.067206
+20,Topic20_test_failed_shit_ðÿ,whatâ,0.052801
+20,Topic20_test_failed_shit_ðÿ,ignore,0.051667
+20,Topic20_test_failed_shit_ðÿ,œa,0.049731
+20,Topic20_test_failed_shit_ðÿ,ðÿ ðÿ,0.036441
+21,Topic21_blood_ve_weeks_months,blood,0.306353
+21,Topic21_blood_ve_weeks_months,ve,0.047955
+21,Topic21_blood_ve_weeks_months,weeks,0.046273
+21,Topic21_blood_ve_weeks_months,months,0.041242
+21,Topic21_blood_ve_weeks_months,week,0.040751
+21,Topic21_blood_ve_weeks_months,iâ ve,0.040635
+21,Topic21_blood_ve_weeks_months,type,0.039344
+21,Topic21_blood_ve_weeks_months,12,0.037024
+21,Topic21_blood_ve_weeks_months,book,0.036032
+21,Topic21_blood_ve_weeks_months,used,0.035403
+22,Topic22_www reddit_reddit com_utm_medium_utm_source,www reddit,0.49797
+22,Topic22_www reddit_reddit com_utm_medium_utm_source,reddit com,0.479416
+22,Topic22_www reddit_reddit com_utm_medium_utm_source,utm_medium,0.382873
+22,Topic22_www reddit_reddit com_utm_medium_utm_source,utm_source,0.374766
+22,Topic22_www reddit_reddit com_utm_medium_utm_source,https www,0.370502
+22,Topic22_www reddit_reddit com_utm_medium_utm_source,www,0.357131
+22,Topic22_www reddit_reddit com_utm_medium_utm_source,com,0.333523
+22,Topic22_www reddit_reddit com_utm_medium_utm_source,https,0.287976
+22,Topic22_www reddit_reddit com_utm_medium_utm_source,share,0.285919
+22,Topic22_www reddit_reddit com_utm_medium_utm_source,reddit,0.285069
+23,Topic23_game_watch_fan_trying,game,0.218577
+23,Topic23_game_watch_fan_trying,watch,0.203934
+23,Topic23_game_watch_fan_trying,fan,0.202264
+23,Topic23_game_watch_fan_trying,trying,0.110231
+23,Topic23_game_watch_fan_trying,fucking,0.083128
+23,Topic23_game_watch_fan_trying,œwe,0.066544
+23,Topic23_game_watch_fan_trying,losers,0.062687
+23,Topic23_game_watch_fan_trying,disappointed,0.059375
+23,Topic23_game_watch_fan_trying,complained,0.058318
+23,Topic23_game_watch_fan_trying,iâ,0.057276

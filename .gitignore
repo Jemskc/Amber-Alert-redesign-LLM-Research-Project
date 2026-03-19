@@ -1,0 +1,14 @@
+# Large files — too big for GitHub (>100MB), share via Google Drive instead
+01_Amber_Alert_Classification/analysis_results/MASTER_FINAL_99K_COMPLETE-2026-3-18.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
